@@ -1,0 +1,17 @@
+{
+  "name": "eth-converter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "wei": "index.js",
+    "gwei": "index.js",
+    "eth": "index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.5.1"
+  }
+}
