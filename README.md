@@ -4,7 +4,7 @@ A simple utility that converts ethereum units
 
 # Installation
 
-npm i -g eth-converter
+`npm i -g eth-converter`
 
 this will install commands `wei`, `gwei`, `eth`
 
