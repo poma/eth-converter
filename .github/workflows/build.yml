@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 14
       - run: yarn install
-      - run: ln -s gwei ./index.js
+      - run: ln -s ./index.js gwei
       - run: ./gwei 10
       - name: Telegram Failure Notification
         uses: appleboy/telegram-action@0.0.7
