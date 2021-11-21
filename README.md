@@ -1,4 +1,4 @@
-# eth-new [![Build Status](https://github.com/poma/eth-converter/workflows/build/badge.svg)](https://github.com/poma/eth-converter/actions) [![npm](https://img.shields.io/npm/v/eth-converter)](https://www.npmjs.com/package/eth-converter)
+# eth-converter [![Build Status](https://github.com/poma/eth-converter/workflows/build/badge.svg)](https://github.com/poma/eth-converter/actions) [![npm](https://img.shields.io/npm/v/eth-converter)](https://www.npmjs.com/package/eth-converter)
 
 A simple utility that converts ethereum units
 
