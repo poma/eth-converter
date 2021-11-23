@@ -3,7 +3,7 @@ const path = require('path')
 const { utils } = require('ethers')
 const trim = str => str.replace(/\.0$/, '')
 const [, unit, number] = process.argv
-if (!number) {
+if (isNaN(number)) {
   console.log(`Usage: ${path.basename(unit)} <number>`)
   process.exit(1)
 }
